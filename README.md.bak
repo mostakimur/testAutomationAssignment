@@ -6,3 +6,4 @@ To run the Selenium Web Driver Test Script need to follow the below instruction:
 3. Install TestNG
 4. Import Jar file
 5. Import TestNG libraries in script.
+6. Java Source file is also added separately
